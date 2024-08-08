@@ -1,11 +1,38 @@
 <div align="center" >
 
+  <br/>
+  <br/>
+  <img src="/public/logo-dark.png#gh-dark-mode-only" alt="logo" width="200" height="auto" />
+  <img src="/public/logo-light.png#gh-light-mode-only" alt="logo" width="200" height="auto" />
+  <br/>
+  <br/>
+
   <p >
 HpMovies is a simple movie application built with React JS, Typescript, and Tailwind CSS, <br/> which allows users to search and view the trailer of both movies and TV series.
   </p>
-  
-<br/>
-<br/>
+
+<p>
+  <a href="https://github.com/HpKing360/Movies_App/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/HpKing360/Movies_App" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/HpKing360/Movies_App" alt="last update" />
+  </a>
+  <a href="https://github.com/HpKing360/Movies_App/network/members">
+    <img src="https://img.shields.io/github/forks/HpKing360/Movies_App" alt="forks" />
+  </a>
+  <a href="https://github.com/HpKing360/Movies_App/stargazers">
+    <img src="https://img.shields.io/github/stars/HpKing360/Movies_App" alt="stars" />
+  </a>
+  <a href="https://github.com/HpKing360/Movies_App/issues/">
+    <img src="https://img.shields.io/github/issues/HpKing360/Movies_App" alt="open issues" />
+  </a>
+  <a href="https://github.com/HpKing360/Movies_App/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/HpKing360/Movies_App.svg" alt="license" />
+  </a>
+</p>
+   
+</div>
 
 ## Features
 
