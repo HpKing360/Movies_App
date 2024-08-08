@@ -7,7 +7,7 @@
   <br/>
 
   <p >
-tMovies is a simple movie application built with React JS, Typescript, and Tailwind CSS, <br/> which allows users to search and view the trailer of both movies and TV series.
+HpMovies is a simple movie application built with React JS, Typescript, and Tailwind CSS, <br/> which allows users to search and view the trailer of both movies and TV series.
   </p>
 
 <p>
@@ -58,18 +58,6 @@ tMovies is a simple movie application built with React JS, Typescript, and Tailw
 
 <br/>
 
-## :camera: Screenshots
-
-<kbd><img width="952" alt="hero" src="https://github.com/sudeepmahato16/movie-app/assets/122378993/195e2334-4790-4d0c-85e6-7a03ca1981ee"></kbd>
-
-<kbd><img width="950" alt="youtube video" src="https://user-images.githubusercontent.com/122378993/218236507-d55ca04d-2d6c-414b-9316-3817ae1a6cd7.png"></kbd>
-
-<kbd><img width="953" alt="movie" src="https://user-images.githubusercontent.com/122378993/218257506-40efd922-0525-4620-81f4-eb03cdc661c8.png"></kbd>
-
-<kbd><img width="953" alt="catalog" src="https://github.com/sudeepmahato16/movie-app/assets/122378993/d185a488-bb66-4890-a8af-a73b4e0941b5"></kbd>
-
-<br/>
-<br/>
 
 ## Getting Started
 
@@ -99,13 +87,13 @@ Make sure you have all the necessary prerequisites installed on your system. Fol
 - Open a terminal or command prompt and navigate to the directory where you want to clone the project.
 - Run the following command to clone the project from GitHub:
   ```bash
-  git clone https://github.com/sudeepmahato16/movie-app.git
+  git clone https://github.com/HpKing360/Movies_App.git
   ```
 - This will create a new directory called "movie-app" in the current location, containing the code for the movie app project.
 - Navigate to the project directory by running the following command:
 
   ```bash
-  cd movie-app
+  cd Movies_App
   ```
 
 - Run the following command to install the project's dependencies using npm:
